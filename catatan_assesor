@@ -1,0 +1,42 @@
+
+Hasil Review ASESSOR 
+
+yang perlu di perbaiki
+- halaman pelanggan :
+1. membuat validasi Ketika ada nomor yang sama. (selesai)
+2. Tambahkan fitur pencarian by nomor telfon. (selesai)
+ 
+- Halaman Transaksi
+1. Munculkan Struck (selesai)
+2. Tambahkan info kembalian (selesai)
+3. stok otomatis berkurang Ketika melakukan transaksi (selesai)
+4. munculkan outomatis jumlah yang harus di bayar (selesai)
+5. tambahkan inputan jumlah bayar(selesai)
+6. traansaksi lebih dari 1 item.(selesai)
+7. tambahkan Foto pesanan(selesai)
+
+______________________________________________________________________________________________________________________
+
+Tambahan yang saya buat :
+
+-Halaman Transaksi / Halaman Struk
+1. Menambahkan QR dalam Struk Transaksi. (Memakai layanan QRServer API sebagai pihak ketiga, dengan tujuan untuk Menggenerate QR Code dengan layanan QRServer API.)
+
+-Halaman Kelola Pegawai, Halaman Transaksi, Halaman Detail Transaksi, halaman Struk.
+1. Menambahkan Input Informasi Pegawai. (untuk mengetahui siapa pegawai/kasir yang melakukan transaksi dengan pelanggan.)
+
+2. Menambahkan Fitur Pencarian di 5 halaman :
+	-Halaman Produk
+	-Halaman Transaksi
+	-Halaman Kelola Pegawai
+	-Halaman Kelola Pelanggan
+	-Halaman Kelola User
+
+-Halaman Hasil Pendapatan
+1. Menambahkan Halaman Hasil Pendapatan (Berfungsi untuk melihat hasil pendapatan per hari/minggu/bulan.)
+
+-Halaman Transaksi
+1. Membuat Status Pembayaran outomatis (outomatis berubah (Lunas/Belum Lunas), jika Harga bayar di sesuaikan.)
+
+
+
